@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for.
 
 ## 🛠️ Installation
 
-download the latest relese 
+download the latest relese sorse code 
 
 ---
 
